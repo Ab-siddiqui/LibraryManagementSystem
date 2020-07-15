@@ -1,0 +1,6 @@
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.Entities\bin\Debug\LMS.Entities.dll
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.Entities\bin\Debug\LMS.Entities.pdb
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.Entities\obj\Debug\LMS.Entities.csprojAssemblyReference.cache
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.Entities\obj\Debug\LMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.Entities\obj\Debug\LMS.Entities.dll
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.Entities\obj\Debug\LMS.Entities.pdb

@@ -1,0 +1,11 @@
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.DAL\bin\Debug\LMS.DAL.dll
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.DAL\bin\Debug\LMS.DAL.pdb
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.DAL\bin\Debug\LMS.Entities.dll
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.DAL\bin\Debug\LMS.Entities.pdb
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.DAL\obj\Debug\LMS.DAL.csprojAssemblyReference.cache
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.DAL\obj\Debug\LMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.DAL\obj\Debug\LMS.DAL.csproj.CopyComplete
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.DAL\obj\Debug\LMS.DAL.dll
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.DAL\obj\Debug\LMS.DAL.pdb
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.DAL\bin\Debug\LMS.Exceptions.dll
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.DAL\bin\Debug\LMS.Exceptions.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.Exceptions\bin\Debug\LMS.Exceptions.dll
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.Exceptions\bin\Debug\LMS.Exceptions.pdb
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.Exceptions\obj\Debug\LMS.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.Exceptions\obj\Debug\LMS.Exceptions.dll
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.Exceptions\obj\Debug\LMS.Exceptions.pdb
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.Exceptions\obj\Debug\LMS.Exceptions.csprojAssemblyReference.cache

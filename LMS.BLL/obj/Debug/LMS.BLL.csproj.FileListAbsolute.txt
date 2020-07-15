@@ -1,0 +1,13 @@
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.BLL\bin\Debug\LMS.BLL.dll
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.BLL\bin\Debug\LMS.BLL.pdb
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.BLL\bin\Debug\LMS.DAL.dll
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.BLL\bin\Debug\LMS.Entities.dll
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.BLL\bin\Debug\LMS.DAL.pdb
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.BLL\bin\Debug\LMS.Entities.pdb
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.BLL\obj\Debug\LMS.BLL.csprojAssemblyReference.cache
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.BLL\obj\Debug\LMS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.BLL\obj\Debug\LMS.BLL.csproj.CopyComplete
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.BLL\obj\Debug\LMS.BLL.dll
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.BLL\obj\Debug\LMS.BLL.pdb
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.BLL\bin\Debug\LMS.Exceptions.dll
+C:\Users\Mohsin\source\repos\LibrayManagementSystem\LMS.BLL\bin\Debug\LMS.Exceptions.pdb
